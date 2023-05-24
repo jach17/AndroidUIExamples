@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CursoAndroid</string>
+    <string name="imagen_de_usuario">Imagen de usuario</string>
+    <string name="imagen_de_camara">Imagen de camara</string>
+</resources>
